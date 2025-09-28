@@ -1,6 +1,6 @@
 #### - mlbookcamp.com
 
-![](assets\20250917_163843_image.png)
+![](assets/20250917_163843_image.png)
 
 #### - building machine learning project
 
@@ -35,3 +35,4 @@
 - ![](assets\20250918_215737_image.png)-
 
 #### FAQ document
+
