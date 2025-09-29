@@ -32,20 +32,20 @@ information about 'cars' is features
 - ![](assets/20250928_163853_image.png)
 - ![](assets/20250928_164013_image.png)
 - #### feature matrix
--  ![](assets\20250928_165331_image.png)
+-  ![](assets/20250928_165331_image.png)
 
 
-- ![](assets\20250928_165504_image.png)
+- ![](assets/20250928_165504_image.png)
 - takes function 'g' and features 'x' to produce something as close as we can to target variable
-- ![](assets\20250928_165619_image.png)
+- ![](assets/20250928_165619_image.png)
 - below is what is called training
-- ![](assets\20250928_165736_image.png)
-- ![](assets\20250928_165825_image.png)
-- ![](assets\20250928_170105_image.png)
+- ![](assets/20250928_165736_image.png)
+- ![](assets/20250928_165825_image.png)
+- ![](assets/20250928_170105_image.png)
 - ranking (example e-commerce) -- assigned scores
-- ![](assets\20250928_170306_image.png)
+- ![](assets/20250928_170306_image.png)
 - things sorted by score and shown top 6
 
   - google does soemthing similar
--  ![](assets\20250928_170636_image.png)
+-  ![](assets/20250928_170636_image.png)
 -
