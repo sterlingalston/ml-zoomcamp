@@ -18,7 +18,7 @@
 
 - ![](assets/2025-09-29-21-58-33-image.png)
 
-- matrix-vector multiplcation
+- ### matrix-vector multiplcation
 
 - ![](assets/2025-09-29-22-14-22-image.png)
 
@@ -26,8 +26,28 @@
 
 - number of columns in U should match number of rows in v
 
-- matrix-matrix multiplication
-  
-  - ![](assets/2025-09-29-22-43-32-image.png)
+- ### matrix-matrix multiplication
 
+- 
 
+- ![](assets/2025-09-29-22-53-20-image.png)
+
+- implemented in python
+
+- ![](assets/2025-09-29-22-55-18-image.png)
+
+- ### identity matrics (I)
+
+- ![](assets/2025-09-29-22-57-37-image.png)
+
+- ![](assets/2025-09-29-22-57-54-image.png)
+
+- ![](assets/2025-09-29-22-58-37-image.png)
+
+- useful for matrix inverse
+
+- ![](assets/2025-09-29-23-02-15-image.png)
+
+- ![](assets/2025-09-29-23-02-34-image.png)
+
+- useful for linear regression
