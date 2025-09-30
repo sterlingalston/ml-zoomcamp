@@ -9,8 +9,8 @@
 - ![](assets/20250928_175720_image.png)
 
 - model above is 66% accurate
-  
-  - can do this for logistic regresssion
+
+- can do this for logistic regresssion
 
 - ![](assets/20250928_175837_image.png)
 
@@ -25,9 +25,13 @@
 - ## Multiple comparison problem
 
 The last table visualize a problem that could happen, when comparing
+
 different models on one validation dataset. The winning model could just
+
 get lucky (like a coin-flip) predicting the validation data. When
+
 testing the models on a totally different dataset, the winner could be
+
 another model.
 
 3 subsets of data: train, validation, and test (hide)
